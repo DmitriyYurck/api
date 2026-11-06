@@ -1,2 +1,2 @@
-litellm[proxy]==1.103.6
+litellm[extra_proxy]==1.103.6
 prisma==0.15.0
