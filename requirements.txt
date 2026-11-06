@@ -1,4 +1,3 @@
-
-litellm[extra_proxy]==1.103.6
+litellm[proxy, extra_proxy]==1.103.6
 prisma==0.15.0
 websockets
